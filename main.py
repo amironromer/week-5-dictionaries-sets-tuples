@@ -128,12 +128,13 @@ print(employee['weight'])
 
 #challenge 1
 # Create a dictionary called my_dict that stores the following information about a person:
-# name: Karen
-# surname: Jurgens
-# age: 35
-# occupation: Journalist
 # The names of the keys and values must be equal to the ones indicated above.
-
+my_dict={
+  'name': 'karen',
+'surname': 'Jurgens',
+'age': 35,
+'occupation': 'Journalist'}
+print(my_dict)
 #challenge 2:
 # Use print to returns the second item of the list called points2, inside the following dictionary.
 
